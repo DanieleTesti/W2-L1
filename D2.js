@@ -24,7 +24,7 @@ REGOLE
 */
 
 let name = "Daniele";
-console.log(name);
+console.log("Nome: ", name);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -46,7 +46,7 @@ console.log(x);
 */
 
 name = "Testi";
-console.log(name);
+console.log("Cognome :", name);
 // const Nome = "Daniele";
 // console.log(Nome);
 // Nome = "Testi";     MESSI COME COMMENTO ALTRIMENTI IL RPOGRAMMA NON FUNZIONA!!!!1
