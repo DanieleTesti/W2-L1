@@ -29,9 +29,9 @@ console.log(name);
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
-
-result = 12 + 20;
-console.log(result);
+let a = 12;
+let b = 20;
+console.log(a + b);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -47,8 +47,8 @@ console.log(x);
 
 name = "Testi";
 console.log(name);
-const Nome = "Daniele";
-console.log(Nome);
+// const Nome = "Daniele";
+// console.log(Nome);
 // Nome = "Testi";     MESSI COME COMMENTO ALTRIMENTI IL RPOGRAMMA NON FUNZIONA!!!!1
 // console.log(Nome);   MESSI COME COMMENTO ALTRIMENTI IL RPOGRAMMA NON FUNZIONA!!!!1
 
@@ -68,4 +68,4 @@ const name1 = "john";
 const name2 = "John";
 
 console.log(name1 === name2);
-console.log(name1.toLowerCase == name2.toLowerCase);
+console.log(name1 === name2.toLowerCase());
